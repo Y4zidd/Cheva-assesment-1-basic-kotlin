@@ -1,8 +1,8 @@
 # Assesment 1 cheva (Dasar Kotlin)
 
-Nama : Yazid Istiqlal Adhy Fadhillah
-Kelas : D3IF-48-02
-NIM : 607062430005
+Nama : Yazid Istiqlal Adhy Fadhillah </br>
+Kelas : D3IF-48-02 </br>
+NIM : 607062430005 </br>
 
 ## daftar operasi / permainan
 1. Kalkulator
